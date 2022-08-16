@@ -9,11 +9,11 @@
 
 ## Live Demo
 
-Click here [https://hamidthedev.github.io/]
+Click here [https://hamidthedev.github.io/Typing-Master]
 
 ## Screenshots
 
-![react-update](https://github.com/HamidTheDev/Article-of_The-Day-Bot/blob/main/Screenshot.png)
+![react-update](https://github.com/HamidTheDev/Typing-Master/blob/main/Demo.png)
 
 
 ## Author
