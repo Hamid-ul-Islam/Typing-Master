@@ -1,6 +1,7 @@
 # Typing Master 
 
 > "Typing master is a bot that can detect text from a region and extract them and can also able to write them.
+## > it's specially created for 10FastFingers typing test with anticheat bypassed!!
 
 ## Built With
 
